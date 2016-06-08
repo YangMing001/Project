@@ -1,0 +1,10 @@
+source 'https://github.com/CocoaPods/Specs.git'
+
+platform :ios, '9.0'
+
+inhibit_all_warnings!
+
+
+
+pod 'ReactiveCocoa','~>2.5'
+pod 'Test1', :git => 'https://github.com/YangMing001/Test1.git',:tag =>'0.3.0'

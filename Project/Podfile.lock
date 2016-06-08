@@ -1,0 +1,29 @@
+PODS:
+  - ReactiveCocoa (2.5):
+    - ReactiveCocoa/UI (= 2.5)
+  - ReactiveCocoa/Core (2.5):
+    - ReactiveCocoa/no-arc
+  - ReactiveCocoa/no-arc (2.5)
+  - ReactiveCocoa/UI (2.5):
+    - ReactiveCocoa/Core
+  - Test1 (0.3.0)
+
+DEPENDENCIES:
+  - ReactiveCocoa (~> 2.5)
+  - Test1 (from `https://github.com/YangMing001/Test1.git`, tag `0.3.0`)
+
+EXTERNAL SOURCES:
+  Test1:
+    :git: https://github.com/YangMing001/Test1.git
+    :tag: 0.3.0
+
+CHECKOUT OPTIONS:
+  Test1:
+    :git: https://github.com/YangMing001/Test1.git
+    :tag: 0.3.0
+
+SPEC CHECKSUMS:
+  ReactiveCocoa: e2db045570aa97c695e7aa97c2bcab222ae51f4a
+  Test1: 0c9bf6efd99cf49f71c515fc3017c573e7cd2590
+
+COCOAPODS: 0.39.0

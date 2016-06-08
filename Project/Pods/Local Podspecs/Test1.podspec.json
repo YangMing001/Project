@@ -1,0 +1,22 @@
+{
+  "name": "Test1",
+  "version": "0.3.0",
+  "summary": "Test1",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/YangMing001/Test1",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "YM": "yangming@1yd.me"
+  },
+  "source": {
+    "git": "https://github.com/YangMing001/Test1.git",
+    "tag": "0.3.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "Test1/Classes/**/*"
+}
